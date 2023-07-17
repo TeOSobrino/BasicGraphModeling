@@ -1,5 +1,5 @@
 # Graphs
-Basic graph algorithms using linked list representation
+Basic graph algorithms using linked list representation, Eulerian Paths, DFS, BFS, MST and minimum cost.
 
 Further improvement is to replicate all the algorthims using matrix representation for graphs.
 
